@@ -1,11 +1,15 @@
 Package: SomethingCool
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Adds something special
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Carrie Sun
+Maintainer: Carrie Sun <cjs2200@columbia.edu>
+Description: This is a test package to see if I can make a template
+License: MIT + file + LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
+Imports: here
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
