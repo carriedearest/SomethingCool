@@ -28,3 +28,6 @@ output:
 # Analysis
 
 # :)
+
+## Don't worry. Be happy!
+### Aren't you glad you have SomethingCool?

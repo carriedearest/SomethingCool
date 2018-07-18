@@ -9,6 +9,8 @@ Carolyn Sun
     -   [Data](#data)
 -   [Analysis](#analysis)
 -   [:)](#section)
+    -   [Don't worry. Be happy!](#dont-worry.-be-happy)
+        -   [Aren't you glad you have SomethingCool?](#arent-you-glad-you-have-somethingcool)
 
 Overview
 ========
@@ -27,3 +29,8 @@ Analysis
 
 :)
 ==
+
+Don't worry. Be happy!
+----------------------
+
+### Aren't you glad you have SomethingCool?
