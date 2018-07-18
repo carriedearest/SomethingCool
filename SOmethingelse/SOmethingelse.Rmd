@@ -12,18 +12,20 @@ output:
     number_sections: true
     fig_caption: true
 ---
+# Abstract
 
+#-----------
 # Background and Introduction
 
-# Methods
+## Purpose 
 
-## Load Libraries and Data
-
-### Libraries
+## Libraries
 
 ```{r load_libs}
 
 ```
+
+# Methods 
 
 ## Data
 
@@ -32,7 +34,8 @@ output:
 # Results
 
 # Discussion
-
 ## Limitations
 
 # Conclusion
+
+# References
